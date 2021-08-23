@@ -1,3 +1,4 @@
+let arr= [1,2,3,4,5,6]
 function oblicz(tablica){
 let suma = 0;
 let iloczyn = 1;
@@ -10,7 +11,6 @@ console.log(iloczyn);
 
 }
 oblicz(arr);
-
 
 
 
